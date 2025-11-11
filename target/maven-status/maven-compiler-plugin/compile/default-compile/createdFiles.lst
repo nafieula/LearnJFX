@@ -1,0 +1,3 @@
+App\Main.class
+Controller\MoodController.class
+Model\MoodEntry.class
